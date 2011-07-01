@@ -2,6 +2,7 @@ UTTRss
 -------
 
 This is a mobile application dedicaded to my university "University of Technology of Troyes" - UTT (www.utt.fr).
+
 With this app you will have access to:
 - All kind of information about the university. ie: administartive, sport, cultural events, etc.
 - All videos concerning the university
@@ -10,6 +11,8 @@ With this app you will have access to:
 - a completed guide for all the courses in UTT.
 
 More features will be added in the future.
+
+Please, take a look to the wiki to find more about this app
 
 Credit
 -------
