@@ -12,7 +12,8 @@ With this app you will have access to:
 
 More features will be added in the future.
 
-Please, take a look to the wiki to find more about this app
+This app works on iphone devices and android. We have made this prototype for android device.
+Please, take a look to the wiki to learn more about this app.
 
 Credit
 -------
