@@ -1,0 +1,226 @@
+Logfile initialized
+[INFO] logfile = C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build.log
+[DEBUG] C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\builder.py simulator uttRSS C:\Program Files\Android\android-sdk-windows C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS fr.utt.smartfun 7 HVGA
+[INFO] Building uttRSS for Android ... one moment
+[INFO] Titanium SDK version: 1.7.1 (06/21/11 14:28 1293a6d)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 45 seconds)
+[DEBUG] waited 57.150000 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] fr.utt.smartfun installed? False
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\bin\assets\Resources\appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found splash screen at C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\bin\assets\Resources\default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\gen\fr\utt\smartfun\R.java to javac build list
+[DEBUG] adding C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\gen\fr\utt\smartfun\UttrssActivity.java to javac build list
+[DEBUG] adding C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\gen\fr\utt\smartfun\UttrssAppInfo.java to javac build list
+[DEBUG] adding C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\gen\fr\utt\smartfun\UttrssApplication.java to javac build list
+[DEBUG] Building Java Sources: "C:\\Users\\anthonykojima\\My Documents\\Titanium Studio Workspace\\uttRSS\\build\\android\\gen\\fr\\utt\\smartfun\\R.java" "C:\\Users\\anthonykojima\\My Documents\\Titanium Studio Workspace\\uttRSS\\build\\android\\gen\\fr\\utt\\smartfun\\UttrssActivity.java" "C:\\Users\\anthonykojima\\My Documents\\Titanium Studio Workspace\\uttRSS\\build\\android\\gen\\fr\\utt\\smartfun\\UttrssAppInfo.java" "C:\\Users\\anthonykojima\\My Documents\\Titanium Studio Workspace\\uttRSS\\build\\android\\gen\\fr\\utt\\smartfun\\UttrssApplication.java"
+[INFO] Waiting for SDCard to become available..
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: C:\Users\anthonykojima\My Documents\Titanium Studio Workspace\uttRSS\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/actualites/news_win.js
+[DEBUG] from resource zip => assets/Resources/actualites/news_win_menu.js
+[DEBUG] from resource zip => assets/Resources/evenements/calendar_win.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/guide_uv_menu.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/infos_uv.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsAutres.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsISI.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsISI_menu.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsMasters.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsSRT.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsSRT_menu.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvsTC.js
+[DEBUG] from resource zip => assets/Resources/guide_formation/uvs_branches.js
+[DEBUG] from resource zip => assets/Resources/images/actu.png
+[DEBUG] from resource zip => assets/Resources/images/aviron_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/basket_icon.png
+[DEBUG] from resource zip => assets/Resources/images/boxe_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/bus_icon.png
+[DEBUG] from resource zip => assets/Resources/images/calendar.png
+[DEBUG] from resource zip => assets/Resources/images/cyclisme_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/escalade_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/favoris_trombi_icon.png
+[DEBUG] from resource zip => assets/Resources/images/football_icon.png
+[DEBUG] from resource zip => assets/Resources/images/formation_utt_fd.jpg
+[DEBUG] from resource zip => assets/Resources/images/guide_uv.png
+[DEBUG] from resource zip => assets/Resources/images/gym_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/hand_ball_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/icon_cs.png
+[DEBUG] from resource zip => assets/Resources/images/icon_tm.png
+[DEBUG] from resource zip => assets/Resources/images/infos.png
+[DEBUG] from resource zip => assets/Resources/images/maps.png
+[DEBUG] from resource zip => assets/Resources/images/muscu_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/pics.png
+[DEBUG] from resource zip => assets/Resources/images/presentation_utt_fd.jpg
+[DEBUG] from resource zip => assets/Resources/images/rechercher_trombi_icon.png
+[DEBUG] from resource zip => assets/Resources/images/resto.png
+[DEBUG] from resource zip => assets/Resources/images/rss.png
+[DEBUG] from resource zip => assets/Resources/images/score.png
+[DEBUG] from resource zip => assets/Resources/images/se_reperer_icon.png
+[DEBUG] from resource zip => assets/Resources/images/sport.png
+[DEBUG] from resource zip => assets/Resources/images/sport_schedule.png
+[DEBUG] from resource zip => assets/Resources/images/taxi_icon.png
+[DEBUG] from resource zip => assets/Resources/images/tennis_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/triathlon_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/trombi.png
+[DEBUG] from resource zip => assets/Resources/images/tv.png
+[DEBUG] from resource zip => assets/Resources/images/ultimate_icon.PNG
+[DEBUG] from resource zip => assets/Resources/images/utt.png
+[DEBUG] from resource zip => assets/Resources/images/utt_3.jpg
+[DEBUG] from resource zip => assets/Resources/images/utt_fd_general.jpg
+[DEBUG] from resource zip => assets/Resources/images/volley_icon.png
+[DEBUG] from resource zip => assets/Resources/infos_pratiques/infos_win.js
+[DEBUG] from resource zip => assets/Resources/localisation/localisation_bus.js
+[DEBUG] from resource zip => assets/Resources/localisation/localisation_map.js
+[DEBUG] from resource zip => assets/Resources/localisation/localisation_taxi.js
+[DEBUG] from resource zip => assets/Resources/localisation/localisation_win.js
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/dark/next.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/dark/panel-nav-next.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/dark/panel-nav-prev.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/dark/prev.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_dark/next.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_dark/panel-nav-next.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_dark/panel-nav-prev.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_dark/prev.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_light/next.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_light/panel-nav-next.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_light/panel-nav-prev.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/ie6_light/prev.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/light/next.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/light/panel-nav-next.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/light/panel-nav-prev.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/themes/light/prev.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/jquery.galleryview-3.0.css
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/css/loader.gif
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt0.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt1.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt10.JPG
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt11.JPG
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt2.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt3.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt4.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt5.png
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt6.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt7.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt8.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt9.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/img/utt_fd_general.jpg
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/js/jquery.easing.1.3.js
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/js/jquery.galleryview-3.0.min.js
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/js/jquery.min.js
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/js/jquery.timers-1.2.js
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/CHANGELOG.txt
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/LICENSE.txt
+[DEBUG] from resource zip => assets/Resources/photos/galleryview/README.txt
+[DEBUG] from resource zip => assets/Resources/photos/gallery_view.html
+[DEBUG] from resource zip => assets/Resources/photos/photos_win.js
+[DEBUG] from resource zip => assets/Resources/photos/utt_pics.js
+[DEBUG] from resource zip => assets/Resources/presentation_utt/formation_utt_win.js
+[DEBUG] from resource zip => assets/Resources/presentation_utt/universite_win.js
+[DEBUG] from resource zip => assets/Resources/presentation_utt/utt_presentation.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/cafette.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/grillades_ru.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/pdj_ru.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/pp_ru.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/resto_win.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/ru.js
+[DEBUG] from resource zip => assets/Resources/restauration_universitaire/tarifs_ru.js
+[DEBUG] from resource zip => assets/Resources/sport_utt/football_schedule.js
+[DEBUG] from resource zip => assets/Resources/sport_utt/football_score.js
+[DEBUG] from resource zip => assets/Resources/sport_utt/football_win.js
+[DEBUG] from resource zip => assets/Resources/sport_utt/sport_win_menu.js
+[DEBUG] from resource zip => assets/Resources/trombi_utt/del_favoris.js
+[DEBUG] from resource zip => assets/Resources/trombi_utt/favoris.js
+[DEBUG] from resource zip => assets/Resources/trombi_utt/info.js
+[DEBUG] from resource zip => assets/Resources/trombi_utt/results.js
+[DEBUG] from resource zip => assets/Resources/trombi_utt/trombi.js
+[DEBUG] from resource zip => assets/Resources/trombi_utt/trombi_win.js
+[DEBUG] from resource zip => assets/Resources/videos/asso_gala_utt_video.js
+[DEBUG] from resource zip => assets/Resources/videos/assos_video_win_menu.js
+[DEBUG] from resource zip => assets/Resources/videos/media_utt_video.js
+[DEBUG] from resource zip => assets/Resources/videos/videos_win.js
+[DEBUG] from resource zip => assets/Resources/videos/videos_win_menu.js
+[DEBUG] from resource zip => assets/Resources/xml/actualites/local.xml
+[DEBUG] from resource zip => assets/Resources/xml/evenements/evenements.xml
+[DEBUG] from resource zip => assets/Resources/xml/infos_pratiques/infos.xml
+[DEBUG] from resource zip => assets/Resources/xml/restauration/grillades_ru.xml
+[DEBUG] from resource zip => assets/Resources/xml/restauration/pdj_ru.xml
+[DEBUG] from resource zip => assets/Resources/xml/restauration/pp_ru.xml
+[DEBUG] from resource zip => assets/Resources/xml/restauration/tarifs_ru.xml
+[DEBUG] from resource zip => assets/Resources/xml/sport/football/football_news.xml
+[DEBUG] from resource zip => assets/Resources/xml/sport/football/football_schedule.xml
+[DEBUG] from resource zip => assets/Resources/xml/sport/football/football_score.xml
+[DEBUG] from resource zip => assets/Resources/UTTRssDB.sqlite
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/bdd_app.sqlite
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/default2.png
+[DEBUG] from resource zip => assets/Resources/default_app_logo.png
+[DEBUG] from resource zip => assets/Resources/favoris.sqlite
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/facebook_icon.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/facebook_icon.png
+[DEBUG] from resource zip => res/drawable-ldpi/facebook_icon.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\modules\titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\modules\titanium-yahoo.jar => ti/modules/titanium/yahoo/yahoo.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\smalljs.jar => org/mozilla/javascript/resources/Messages.properties
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.1\android\smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.047000 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Launching application ... uttRSS
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.utt.smartfun/.UttrssActivity }
+
+[INFO] Deployed uttRSS ... Application should be running.
+[INFO] Android Emulator has exited

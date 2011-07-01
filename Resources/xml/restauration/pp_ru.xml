@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Plat du jour</title>
+    <language>fr</language>
+    <link>http://www.utt.fr</link>
+    <copyright>Anthony NKUINJEU, Steve WANDJI, UTT</copyright>
+    <description>Actualités à l'U.T.T.</description>
+    <ttl>1</ttl>
+    <lastBuildDate>2011-04-08 08:08:33 +0000</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate></pubDate>
+      <title>Lundi</title>
+      <description>
+          - Pâtes Carbonara
+          - Pizza Kebab
+      </description>
+      <media:thumbnail url="http://pearlymoon.free.fr/blog/images/Pearl/Cuisine/Plats%20de%20r%C3%A9sistance/pizza_4_stagioni_archite_01.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6a</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate></pubDate>
+      <title>Mardi</title>
+      <description>
+          - Pâtes Bolognaises
+          - Pizza tris fromages
+      </description>
+      <media:thumbnail url="http://pearlymoon.free.fr/blog/images/Pearl/Cuisine/Plats%20de%20r%C3%A9sistance/pizza_4_stagioni_archite_01.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6f</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate></pubDate>
+      <title>Mercredi</title>
+      <description>
+          - pâtes au Beurre
+          - Pizza hawaïenne
+      </description>
+      <media:thumbnail url="http://pearlymoon.free.fr/blog/images/Pearl/Cuisine/Plats%20de%20r%C3%A9sistance/pizza_4_stagioni_archite_01.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6e</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate></pubDate>
+      <title>Jeudi</title>
+      <description>
+          - pâtes au Beurre
+          - Pizza vegetarienne
+      </description>
+      <media:thumbnail url="http://pearlymoon.free.fr/blog/images/Pearl/Cuisine/Plats%20de%20r%C3%A9sistance/pizza_4_stagioni_archite_01.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6d</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate></pubDate>
+      <title>Vendredi</title>
+      <description>
+          - Pâtes carbonara
+          - Pizza hawaïenne
+      </description>
+      <media:thumbnail url="http://pearlymoon.free.fr/blog/images/Pearl/Cuisine/Plats%20de%20r%C3%A9sistance/pizza_4_stagioni_archite_01.jpg" width="64" height="64"/>
+    </item>
+
+
+  </channel>
+</rss>

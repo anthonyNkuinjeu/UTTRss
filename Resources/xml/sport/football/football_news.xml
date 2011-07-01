@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Football UTT</title>
+    <language>fr</language>
+    <link>http://www.utt.fr</link>
+    <copyright>Anthony NKUINJEU, Steve WANDJI, UTT</copyright>
+    <description>Actualité du football</description>
+    <ttl>1</ttl>
+    <lastBuildDate>2011-04-08 08:08:33 +0000</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>l'UTT se qualifie pour la ligue des champions</title>
+      <description>Après un match extra-ordinaire contre le réal de madrid, l'équipe de football de l'utt se qualifie pour la finale de la ligue des champions grâce à un doublé de anthony WANDJI
+            </description>
+      <media:thumbnail url="http://i.eurosport.fr/2011/01/17/680242-8174695-317-238.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6a</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>Demi-finale de la coupe des grandes écoles</title>
+      <description>l'UTT se qualifie pour la finale de la coupe des grandes écoles hier sur la pelouse de l'insa de lille
+            </description>
+      <media:thumbnail url="http://i.eurosport.fr/2011/01/17/680242-8174695-317-238.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>quart de finale de la coupe des grandes écoles</title>
+      <description>l'équipe de l'utt a réussi à se qualifier pour les quart de finale de la coupe des grandes écoles
+            </description>
+      <media:thumbnail url="http://i.eurosport.fr/2011/01/17/680242-8174695-317-238.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcdea</guid>
+      <link>http://www.google.fr/</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>Recrutement de nouveaux joueurs</title>
+      <description>L'utt part à la conquête de nouveaux talents. Surtout n'hésitez pas à venir à notre session d'entraînement prévue le 2 octobre à 20h11</description>
+      <media:thumbnail url="http://i.eurosport.fr/2011/01/17/680242-8174695-317-238.jpg" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcdea</guid>
+      <link>http://www.google.fr/</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>L'UTT gagne la coupe intertoto</title>
+      <description>L'équipe de l'utt remporte avec brio la coupe intertoto en affrontant en finale l'équipe de polytechnique de Garoua. Grâce à un but de luigi mario, l'équipe de l'utt se propulse parmi l'élite du fottball inter-école.</description>
+      <media:thumbnail url="http://i.eurosport.fr/2011/01/17/680242-8174695-317-238.jpg"/>
+    </item>
+  </channel>
+</rss>

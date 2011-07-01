@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Actualités à l'U.T.T.</title>
+    <language>fr</language>
+    <link>http://www.utt.fr</link>
+    <copyright>Anthony NKUINJEU, Steve WANDJI, UTT</copyright>
+    <description>Actualités à l'U.T.T.</description>
+    <ttl>1</ttl>
+    <lastBuildDate>2011-04-08 08:08:33 +0000</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6</guid>
+      <link>http://www.utt.fr</link>
+          <title>Hopitaux</title>
+          <element>
+              <name>EPSMA (Etablissement Public de Santé Mentale de l'Aube)</name>
+              <adresse>34 Rue de la Paix - 10000 Troyes</adresse>
+              <telephone>03 25 43 40 21</telephone>
+          </element>
+          <element>
+              <name>Pharmacie Mutualiste Centre Santé</name>
+              <adresse>98 avenue Chomedey de Maisonneuve - 10000 Troyes</adresse>
+              <telephone>03 25 43 35 36</telephone>
+          </element>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6a</guid>
+      <link>http://www.utt.fr</link>
+          <title>Mutuelles</title>
+          <element>
+              <name>LMDE</name>
+              <adresse>58 rue Général Saussier - 1000 Troyes</adresse>
+              <telephone>0 810 600 601</telephone>
+          </element>
+          <element>
+              <name>MGEL</name>
+              <adresse>76 Rue Général de Gaulle - 10000 Troyes</adresse>
+              <telephone>03 25 73 09 10</telephone>
+          </element>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Football Schedule</title>
+    <language>fr</language>
+    <link>http://www.utt.fr</link>
+    <copyright>Anthony NKUINJEU, Steve WANDJI, UTT</copyright>
+    <description>Football Schedule</description>
+    <ttl>1</ttl>
+    <lastBuildDate>2006-04-08 08:08:33 +0000</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6</guid>
+      <dateDuMatch>Vendredi 1er Mai 2006</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <hostScore>2</hostScore>
+      <equipeVisitor>Real Madrid</equipeVisitor>
+      <visitorScore>0</visitorScore>
+      <heureMatch>17:00</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+    </match>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4692-a275-5dc496dcde6</guid>
+      <dateDuMatch>Vendredi 12 Mai 2006</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <hostScore>1</hostScore>
+      <equipeVisitor>INSA Douala</equipeVisitor>
+      <visitorScore>0</visitorScore>
+      <heureMatch>15:00</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+    </match>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4991-a275-5dc496dcde6</guid>
+      <dateDuMatch>Jeudi 25 Mai 2006</dateDuMatch>
+      <equipeHost>AC Milan</equipeHost>
+      <hostScore>2</hostScore>
+      <equipeVisitor>UTT Football Team</equipeVisitor>
+      <visitorScore>2</visitorScore>
+      <heureMatch>17:30</heureMatch>
+      <lieuMatch>San Siro</lieuMatch>
+    </match>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec46-4691-a275-5dc496dcde6</guid>
+      <dateDuMatch>Vendredi 1er Juin 2006</dateDuMatch>
+      <equipeHost>Chelsea</equipeHost>
+      <hostScore>2</hostScore>
+      <equipeVisitor>UTT Football Team</equipeVisitor>
+      <visitorScore>3</visitorScore>
+      <heureMatch>17:45</heureMatch>
+      <lieuMatch>Wembley</lieuMatch>
+    </match>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc497dcde6</guid>
+      <dateDuMatch>Lundi 19 Juin 2006</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <hostScore>0</hostScore>
+      <equipeVisitor>Arsenal</equipeVisitor>
+      <visitorScore>0</visitorScore>
+      <heureMatch>14:15</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+    </match>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dxde6</guid>
+      <dateDuMatch>Mardi 25 Juin 2006</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <hostScore>1</hostScore>
+      <equipeVisitor>Canon de Yaoundé</equipeVisitor>
+      <visitorScore>2</visitorScore>
+      <heureMatch>17:50</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+    </match>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496hcde6</guid>
+      <dateDuMatch>Vendredi 1er Mai 2006</dateDuMatch>
+      <equipeHost>Polytechnique</equipeHost>
+      <hostScore>2</hostScore>
+      <equipeVisitor>UTT Football Team</equipeVisitor>
+      <visitorScore>3</visitorScore>
+      <heureMatch>15:50</heureMatch>
+      <lieuMatch>Paris Synthétique Floor</lieuMatch>
+    </match>
+  </channel>
+</rss>

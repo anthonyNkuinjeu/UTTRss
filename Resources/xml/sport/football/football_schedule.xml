@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Football Schedule</title>
+    <language>fr</language>
+    <link>http://www.utt.fr</link>
+    <copyright>Anthony NKUINJEU, Steve WANDJI, UTT</copyright>
+    <description>Football Schedule</description>
+    <ttl>1</ttl>
+    <lastBuildDate>2011-04-08 08:08:33 +0000</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6</guid>
+      <dateDuMatch>Vendredi 1er Mai 2011</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <equipeVisitor>Real Madrid</equipeVisitor>
+      <heureMatch>17:00</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+     </match>
+         <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4692-a275-5dc496dcde6</guid>
+      <dateDuMatch>Vendredi 12 Mai 2011</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <equipeVisitor>INSA Douala</equipeVisitor>
+      <heureMatch>15:00</heureMatch>
+          <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+     </match>
+         <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4991-a275-5dc496dcde6</guid>
+      <dateDuMatch>Jeudi 25 Mai 2011</dateDuMatch>
+      <equipeHost>AC Milan</equipeHost>
+      <equipeVisitor>UTT Football Team</equipeVisitor>
+      <heureMatch>17:30</heureMatch>
+          <lieuMatch>San Siro</lieuMatch>
+     </match>
+         <match>
+      <guid isPermaLink="false">7059c65f-ec46-4691-a275-5dc496dcde6</guid>
+      <dateDuMatch>Vendredi 1er Juin 2011</dateDuMatch>
+      <equipeHost>Chelsea</equipeHost>
+      <equipeVisitor>UTT Football Team</equipeVisitor>
+      <heureMatch>17:45</heureMatch>
+      <lieuMatch>Wembley</lieuMatch>
+     </match>
+         <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc497dcde6</guid>
+      <dateDuMatch>Lundi 19 Juin 2011</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <equipeVisitor>Arsenal</equipeVisitor>
+      <heureMatch>14:15</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+     </match>
+         <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dxde6</guid>
+      <dateDuMatch>Mardi 25 Juin 2011</dateDuMatch>
+      <equipeHost>UTT Football Team</equipeHost>
+      <equipeVisitor>Canon de Yaoundé</equipeVisitor>
+      <heureMatch>17:50</heureMatch>
+      <lieuMatch>Terrain derrière Halle Sportive UTT</lieuMatch>
+     </match>
+         <match>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496hcde6</guid>
+      <dateDuMatch>Vendredi 1er Mai 2011</dateDuMatch>
+      <equipeHost>Polytechnique</equipeHost>
+      <equipeVisitor>UTT Football Team</equipeVisitor>
+      <heureMatch>15:50</heureMatch>
+      <lieuMatch>Paris Synthétique Floor</lieuMatch>
+     </match>
+     
+
+  </channel>
+</rss>

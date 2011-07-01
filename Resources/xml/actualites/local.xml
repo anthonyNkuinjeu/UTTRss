@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Actualités à l'U.T.T.</title>
+    <language>fr</language>
+    <link>http://www.utt.fr</link>
+    <copyright>Anthony NKUINJEU, Steve WANDJI, UTT</copyright>
+    <description>Actualités à l'U.T.T.</description>
+    <ttl>1</ttl>
+    <lastBuildDate>2011-04-08 08:08:33 +0000</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>Remise des diplômes 2010</title>
+      <description>La cérémonie de remise des diplômes de l'UTT a eu lieu à l'Espace Argence de Troyes le samedi 20 novembre 2010, où 654 étudiants ont été diplômé.
+            </description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite1-221010-actualite/_metadata/illustration/image_max150x150/vignette_actu_rdd.jpg?" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde6a</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>L’UTT recrute</title>
+      <description>Onze postes d’enseignants-chercheurs sont actuellement à pourvoir à l’Université de technologie de Troyes, dont 7 nouveaux postes de Professeur des Universités, Professeur Assistant et Maître de conférence 
+            </description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite-rh-actualite/_metadata/illustration/image_max150x150/emp.jpg?" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcde</guid>
+      <link>http://www.utt.fr</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>Les ressources électroniques accessibles en nocturne</title>
+      <description>A partir du 18 octobre, le SCD, en collaboration avec la direction des enseignements, propose, dans les salles P101 à P204, une aide à la recherche documentaire de 19h30 à 22h
+            </description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite2-221010-actualite/_metadata/illustration/image_max150x150/vignette_actu_scd_nocturne.jpg?" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcdea</guid>
+      <link>http://www.google.fr/</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>Le dossier Idex de l'UTT</title>
+      <description>Avec ses partenaires, l'UTBM et l'Université de Lorraine, l'UTT est porteur d'un des 17 dossiers soumis à l'appel à projets Initiative d'Excellence (Idex) lancé dans le cadre du programme Investissements d'avenir
+            </description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite1-100111-actualite/_metadata/illustration/image_max150x150/ingexys.jpg?" width="64" height="64"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcdea</guid>
+      <link>http://www.google.fr/</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>La recherche en sécurité : Focus sur la coopération franco-allemande</title>
+      <description>400 experts de la sécurité globale, du monde académique comme de l'industrie, se réuniront les 25 et 26 janvier à l'UTT pour le WISG 2011, Workshop Interdisciplinaire sur la Sécurité Globale.</description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite180111-actualite/_metadata/illustration/image_max150x150/wisg.jpg?"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcdea</guid>
+      <link>http://www.google.fr/</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>L'UTT est dans le top 6 de L'Etudiant</title>
+      <description>L'UTT est en sixième place du palmarès des meilleures écoles d'ingénieur après bac du magazine "L'Etudiant</description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite101210-actualite/_metadata/illustration/image_max150x150/utpan.jpg?"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">7059c65f-ec4c-4691-a275-5dc496dcdea</guid>
+      <link>http://www.google.fr/</link>
+      <pubDate>Thu, 07 Apr 2011 21:50:44 GMT</pubDate>
+      <title>L'UTT 5ème école d'ingénieur post-bac</title>
+      <description>L'UTT est 5ème école d'ingénieur, recrutant au niveau post-bac, dans le classement des 100 meilleures écoles d'ingénieurs 2011 publié le 17 février par le magazine " L'Usine Nouvelle ". Elle est 20ème dans le classement général, tous niveaux de recrutement confondus</description>
+      <media:thumbnail url="http://www.utt.fr/_contents-images/ametys%253Asites/www/ametys-internal%253Acontents/actualite170211-actualite/_metadata/illustration/image_max150x150/coverun.jpg?"/>
+    </item>
+  </channel>
+</rss>
