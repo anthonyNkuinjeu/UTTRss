@@ -25,6 +25,8 @@ See GPL v3: http://www.gnu.org/copyleft/gpl.html for more information.
 All code (except NYSenateMobileApp part) is copyrighted by 
 Anthony NKUINJEU, Steve WANDJI and University of Technology of Troyes. 
 
+CONTACT: Anthony NKUINJEU - anthony.nkuinjeu_nana@utt.fr
+
 Credit
 -------
 
