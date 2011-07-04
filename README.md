@@ -2,7 +2,7 @@ Presentation of UTTRss
 -----------------------
 
 UTTRss is a mobile application dedicaded to my university - "University of Technology of Troyes" - UTT (www.utt.fr).
-UTTRss will be FREE and available for android, ios and blackberry devices.
+UTTRss will be FREE and available for android, ios and blackberry devices. (This is the android version).
 
 With this app you will have access to:
 - All kind of information about the university. ie: administrative information, daily news, sport, cultural events, etc.
@@ -25,8 +25,8 @@ See GPL v3: http://www.gnu.org/copyleft/gpl.html for more information.
 All code (except NYSenateMobileApp part) is copyrighted by 
 Anthony NKUINJEU, Steve WANDJI and University of Technology of Troyes. 
 
-Credits
---------
+Credit
+-------
 
 This application was developed using the Appcelerator Titanium framework and Titanium Studio which can 
 be downloaded here: http://appcelerator.com/
@@ -44,3 +44,4 @@ Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+
