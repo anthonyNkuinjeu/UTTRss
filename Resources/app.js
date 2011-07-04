@@ -7,9 +7,6 @@ Titanium.UI.setBackgroundColor('#000');
 var WindowWidth = Ti.Platform.displayCaps.platformWidth;
 var WindowHeight = Ti.Platform.displayCaps.platformHeight - 40;
 
-// installing local database
-//Ti.App.localDB = Ti.Database.install('UTTRssDB.sqlite','UTTRssDB');
-
 //size of an icon
 var icon_menu_size = 60;
 
