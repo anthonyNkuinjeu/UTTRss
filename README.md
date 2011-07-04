@@ -19,7 +19,7 @@ Most of the code was written by Anthony NKUINJEU and Steve WANDJI.
 Some parts of the code (only the section "Videos -> l'UTT sur Canal32") were taken from 
 the NYSenateMobileApp source code available here: https://github.com/nysenatecio/NYSenateMobileApp
 
-This project has adopted the GPL V3 license.
+This project has adopted the GPL v3 license.
 See GPL v3: http://www.gnu.org/copyleft/gpl.html for more information.
 
 All code (except NYSenateMobileApp part) is copyrighted by 
